@@ -12,7 +12,7 @@ room types, view amenities, and local attractions. Ensure that your Ebusiness si
 • An API to an online map service showing different local attractions 
 
 
-*© 2019 All Rights Reserved. Design by Free Html Templates
+* © 2019 All Rights Reserved. Design by Free Html Templates
 
-Distributed by ThemeWagon*
+Distributed by ThemeWagon *
 
